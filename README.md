@@ -47,7 +47,7 @@ Outputs are saved under `outputs/`:
 - `forecast_prophet.csv` (if Prophet installed)
 - `arima_plot.png`
 
-## Tableau (Optional)
+## Tableau
 Export aggregated data from `data/sales_data_clean.csv` and build a KPI dashboard (Sales, 7-day MA, WoW growth).
 
 ## Tech
